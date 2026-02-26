@@ -1,5 +1,10 @@
 # online_code_sinppet_manager
-## cape stone project by team_10
+## cape stone project by *team_10*
+
+# team members: 
+1. B23CS032	 - RAYABARAPU SAISRIRAM ANIRUDH
+2. B23EC023	 - MACHARLA SATHVIKA 
+3. B24DS065L - RAPARTHI KALYAN SAI
 
 # Online Code Snippet Manager — Features
 
@@ -135,8 +140,3 @@
 - Collaboration updates
 - Snippet updates
 
-## 18. Analytics
-- Snippet views
-- Snippet copies
-- Popular snippets
-- Usage analytics
